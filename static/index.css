@@ -154,7 +154,7 @@ body {
 .tt3,
 .tt4,
 .tt5 {
-    background-size: auto 86%;
+    background-size: auto 100%;
     background-image: url(./image/AfterClicking.png);
 }
 

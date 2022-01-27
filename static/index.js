@@ -331,6 +331,7 @@
     }
 
     w.replayBtn = function() {
+        createjs.Sound.stop()
         gameRestart();
         hideGameScoreLayer();
     }
